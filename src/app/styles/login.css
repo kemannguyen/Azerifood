@@ -1,0 +1,5 @@
+
+.flex-dir-v{
+    display: flex;
+    flex-direction: column;
+}

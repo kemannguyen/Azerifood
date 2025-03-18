@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.flex-dir-h{
+  display: flex;
+  flex-direction: row;
+}
+.flex-dir-v{
+  display: flex;
+  flex-direction: column;
+}
